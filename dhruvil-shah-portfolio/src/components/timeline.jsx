@@ -9,7 +9,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <h2 className="colorlib-heading animate-box">Work Experience</h2>
               </div>
             </div>
             <div className="row">
@@ -21,8 +21,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Customer Experience Technician (Part-time) at Northeastern University  <span>2019-present </span></h2>
+                        <p>Technologies and Tools used: HTML5, JavaScript, CSS3, ServiceNow, Papercut
+<ul>
+  
+<li>Co-developed a web application based on renting electronic appliances like laptops to students and faculty with live monitoring and integration
+with the Northeastern financial services department</li>
+<li>Collaborated with Customer experience team for providing 24/7 support and troubleshooting technical issues faced by students and faculty</li></ul></p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +37,17 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Software Analyst at BNP Paribas <span>2018-2019</span></h2>
+                        <p>Technologies used: Python, Java, J2EE, Oracle, Corba, Jenkins, Maven, XML, JSON
+<ul>
+  
+<li>Collaborated withthe core User Acceptance Testing andAnalysis team for the Electronic Market AccessProject</li>
+<li>Performed Technical and Functional Validations of order routing system and other trading tools utilized by clients globally</li>
+<li>Migrated the order routing system application for more than 45 US, European and Asia Pacific simulation markets for Mifid-2 regulation</li>
+<li>Coordinated with Business Analyst Team, Application Production Support Team and other team members from across US, Europe and AsiaPacific
+region and validated Jira’s resolved by development teams based in Paris and Hong Kong from time to time</li>
+
+</ul></p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +57,30 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Associate Software Analyst at BNP Paribas <span>2017-2018</span></h2>
+                        <p>Technologies used: Python (Pandas, Numpy and other libraries), Django and MySQL
+<ul>
+  
+<li>Designed an automated test suite as a part of innovation project, using Python programming that pumps automated orders on test environment of
+multiple exchanges via an order routing system and generates a detailed and precise report for Error handling and Data analysis</li>
+<li>Saved more than 41 Man days a year and as a recognition to the work, was entrusted with an opportunity to lead a project</li>
+<li>Participated and aware of all sorts of agile ceremonies (user story grooming, sprint planning, sprint retrospective) and organized sprint meetings</li>
+
+
+</ul></p>
+                      </div>
+                    </div>
+                  </article>
+                 
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Android Developer Intern at Purple Squirrel Eduventures <span>2015-2016</span></h2>
+                        <p><ul><li>Developed an Android application using Android studio that synced data with a centrally located server and published information regarding upcoming events, workshops and industrial visits organized by the company.</li></ul></p>
                       </div>
                     </div>
                   </article>

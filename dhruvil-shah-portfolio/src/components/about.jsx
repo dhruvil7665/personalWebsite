@@ -34,22 +34,54 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-device-laptop" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Web Design and Development </h3>
+    
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-2">
+                <span className="icon">
+                    <i className="icon-phone3" />
+                </span>
+                <div className="desc">
+                    <h3>Software Development</h3>
+                
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-6">
+                <span className="icon">
+                    <i className="icon-globe" />
+                </span>
+                <div className="desc">
+                    <h3>Big Data Engineering</h3>
+                
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-4">
+                <span className="icon">
+                    <i className="icon-cloud3" />
+                </span>
+                <div className="desc">
+                    <h3>Cloud Computing</h3>
+                
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-layers2" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -59,11 +91,12 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Data Science with Python</h3>
+                
                 </div>
                 </div>
             </div>
+         
             {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
