@@ -1,2 +1,2 @@
-# personalWebsite
-Made my personal website using React JS and Node JS
+# dhruvil-shah-portfolio
+Made my portfolio website using React JS and Node JS
