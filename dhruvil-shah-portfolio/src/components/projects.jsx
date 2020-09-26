@@ -17,7 +17,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/event.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Eve Tracker</a></h3>
+											<h3>Eve Tracker</h3>
 											<span>Event Tracking Website built using React JS</span>
 											<p className="icon">
 												
@@ -32,7 +32,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/Holiday.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Holiday Maker</a></h3>
+											<h3>Holiday Maker</h3>
 											<span>Travel Website built using Spring MVC and Hibernate</span>
 											<p className="icon">
 											
@@ -47,7 +47,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/react.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">World Of React</a></h3>
+											<h3>World Of React</h3>
 											<span>Technology Blog developed using React JS, Redux, Node JS</span>
 											<p className="icon">
 												
@@ -62,7 +62,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/BigData.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">BigData Analysis on Airbnb Dataset</a></h3>
+											<h3>BigData Analysis on Airbnb Dataset</h3>
 											<span>Data Analysis using Apache Hadoop, Pig, Hive, Spark, MapReduce</span>
 											<p className="icon">
 												
@@ -77,7 +77,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/neuRentals.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Neu Rentals</a></h3>
+											<h3>Neu Rentals</h3>
 											<span>Rental Website built using Angular, Node JS, Express JS and MongoDB</span>
 											<p className="icon">
 												
@@ -92,7 +92,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/todo.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Todo App</a></h3>
+											<h3>Todo App</h3>
 											<span>Notes based web application using Angular, Node JS, Express JS and MongoDb</span>
 											<p className="icon">
 												

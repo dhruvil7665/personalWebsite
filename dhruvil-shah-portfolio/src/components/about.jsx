@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>An Enthusiastic Full Stack developer currently pursuing Masters in Information Systems at Northeastern University.<br>
                     </br> <br></br>My tenure at BNP Paribas India Solutions of 2 years as a Software Analyst gave me an opportunity to enhance my programming skills in Java and Python, using which I developed applications and Automated test suites for trading applications. I also attained deep insights of the Financial markets and collaborated in the migration of Electronic market access projects. Putting my leadership skills to use, I successfully lead a project that focused on testing and enhancement of Trading algorithms, applications and order routing system.
