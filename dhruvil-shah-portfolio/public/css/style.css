@@ -1429,3 +1429,13 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+
+.full{
+    background-image: url(images/dns1.jpg);
+   
+}
+.full img{
+    max-width: 100%;
+    max-height: 100%;
+}

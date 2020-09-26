@@ -40,7 +40,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
             <p><small>
-Copyright 2020 &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</small></p>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> 2020  All rights reserved</small></p>
                   
              
               
