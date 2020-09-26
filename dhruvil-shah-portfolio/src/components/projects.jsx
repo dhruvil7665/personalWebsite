@@ -14,40 +14,40 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/event.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="work.html">EveTracker</a></h3>
+											<span>Event Tracking Website built using React JS</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												
+												<span><a href="#"><i className="icon-eye" /></a></span>
+												
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Holiday.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Holiday Maker</a></h3>
+											<span>Travel Website built using Spring MVC and Hibernate</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											
+												<span><a href="#"><i className="icon-eye" /></a></span>
+												
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/react.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
+											<h3><a href="work.html">WorldOfReact</a></h3>
 											<span>Illustration</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -62,7 +62,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
+											<h3><a href="work.html">w</a></h3>
 											<span>Application</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -74,11 +74,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/neuRentals.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Neu Rentals</a></h3>
+											<span>Rental Website built using Angular, Node JS, Express JS and MongoDB</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -89,11 +89,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/todo.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Todo App</a></h3>
+											<span>Notes web application using Angular, Node JS, Express JS and MongoDb</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>

@@ -18,7 +18,7 @@ export default class Education extends Component {
                           <div class="panel panel-default">
                               <div class="panel-heading" role="tab" id="headingOne">
                                   <h4 class="panel-title">
-                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master Of Science In Information Systems, Northeastern University
+                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master Of Science In Information Systems, Northeastern University, USA
                                       </a>
                                   </h4>
                               </div>
@@ -26,7 +26,28 @@ export default class Education extends Component {
                                    <div class="panel-body">
                                       <div class="row">
                                             <div class="col-md-11">
-                                                <p>Relevant Courses: Web Design and UI/UX Engineering, Web Development methods and tools, Network Structures and Cloud Computing, Big Data Engineering, Data Science with Python, Application Development
+                                                <p>Relevant Courses:
+                                                    <ul>
+                                                        <li>
+                                                        Web Design and User Experience Engineering
+                                                        </li>
+                                                        <li>
+                                                        Web Development methods and tools
+                                                        </li>
+                                                        <li>
+                                                        Network Structures and Cloud Computing
+                                                        </li>
+                                                        <li>
+                                                        Big Data Engineering
+                                                        </li>
+                                                        <li>
+                                                        Data Science with Python
+                                                        </li>
+                                                        <li>
+                                                        Application Engineering and Development
+                                                        </li>
+                                                    </ul>
+                                                    
 </p>
                                             </div>
                                            
@@ -39,7 +60,7 @@ export default class Education extends Component {
                           <div class="panel panel-default">
                               <div class="panel-heading" role="tab" id="headingTwo">
                                   <h4 class="panel-title">
-                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Master Of Science In Information Systems, Northeastern University
+                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Bachelor Of Engineering In Information Technology, University Of Mumbai, India
                                       </a>
                                   </h4>
                               </div>
@@ -47,8 +68,47 @@ export default class Education extends Component {
                                    <div class="panel-body">
                                       <div class="row">
                                             <div class="col-md-11">
-                                                <p>Relevant Courses: Web Programming, Big data Analytics, Cloud Computing, Computer Networks, Data Structures, Object Oriented Programming, Software Engineering, Software Project Management, System and Web Security 
-</p>
+                                            <p>Relevant Courses:
+                                                    <ul>
+                                                        <li>
+                                                        Web Programming Methodologies
+                                                        </li>
+                                                        <li>
+                                                        Advance Web Development
+                                                        </li>
+                                                        <li>
+                                                        Distributed Systems
+                                                        </li>
+                                                        <li>
+                                                        Data Structures and Algorithms
+                                                        </li>
+                                                        <li>
+                                                        Aritificial Intelligence
+                                                        </li>
+                                                        <li>
+                                                        Cloud Computing
+                                                        </li>
+                                                        <li>
+                                                        Computer Networks
+                                                        </li>
+                                                        <li>
+                                                            Object Oriented Programming using JAVA
+                                                        </li>
+                                                        <li>
+                                                            Software Engineering
+                                                        </li>
+                                                        <li>
+                                                            Software Project Management
+                                                        </li>
+                                                        <li>
+                                                            Software Quality Assurance and Testing
+                                                        </li>
+                                                        <li>
+                                                            System and Web Security
+                                                        </li>
+                                                    </ul>
+                                                    </p>
+                                            
                                             </div>
                                            
                                            
