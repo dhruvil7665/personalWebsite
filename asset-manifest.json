@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio_Dhruvil1/static/css/main.523f09c5.chunk.css",
-    "main.js": "/portfolio_Dhruvil1/static/js/main.d4b7dbdb.chunk.js",
-    "main.js.map": "/portfolio_Dhruvil1/static/js/main.d4b7dbdb.chunk.js.map",
-    "runtime-main.js": "/portfolio_Dhruvil1/static/js/runtime-main.cfa2874a.js",
-    "runtime-main.js.map": "/portfolio_Dhruvil1/static/js/runtime-main.cfa2874a.js.map",
-    "static/js/2.e5206b20.chunk.js": "/portfolio_Dhruvil1/static/js/2.e5206b20.chunk.js",
-    "static/js/2.e5206b20.chunk.js.map": "/portfolio_Dhruvil1/static/js/2.e5206b20.chunk.js.map",
-    "index.html": "/portfolio_Dhruvil1/index.html",
-    "precache-manifest.87ad693fee6dda35b2ab25999b1b75b1.js": "/portfolio_Dhruvil1/precache-manifest.87ad693fee6dda35b2ab25999b1b75b1.js",
-    "service-worker.js": "/portfolio_Dhruvil1/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/portfolio_Dhruvil1/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.e5206b20.chunk.js.LICENSE.txt": "/portfolio_Dhruvil1/static/js/2.e5206b20.chunk.js.LICENSE.txt",
-    "static/media/event.jpg": "/portfolio_Dhruvil1/static/media/event.cd25bc2a.jpg"
+    "main.css": "/portfolio_Dhruvil/static/css/main.523f09c5.chunk.css",
+    "main.js": "/portfolio_Dhruvil/static/js/main.de133a34.chunk.js",
+    "main.js.map": "/portfolio_Dhruvil/static/js/main.de133a34.chunk.js.map",
+    "runtime-main.js": "/portfolio_Dhruvil/static/js/runtime-main.d73a472f.js",
+    "runtime-main.js.map": "/portfolio_Dhruvil/static/js/runtime-main.d73a472f.js.map",
+    "static/js/2.e5206b20.chunk.js": "/portfolio_Dhruvil/static/js/2.e5206b20.chunk.js",
+    "static/js/2.e5206b20.chunk.js.map": "/portfolio_Dhruvil/static/js/2.e5206b20.chunk.js.map",
+    "index.html": "/portfolio_Dhruvil/index.html",
+    "precache-manifest.eccd626b608cac57f07f2b20531c9acb.js": "/portfolio_Dhruvil/precache-manifest.eccd626b608cac57f07f2b20531c9acb.js",
+    "service-worker.js": "/portfolio_Dhruvil/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/portfolio_Dhruvil/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.e5206b20.chunk.js.LICENSE.txt": "/portfolio_Dhruvil/static/js/2.e5206b20.chunk.js.LICENSE.txt",
+    "static/media/event.jpg": "/portfolio_Dhruvil/static/media/event.cd25bc2a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfa2874a.js",
+    "static/js/runtime-main.d73a472f.js",
     "static/js/2.e5206b20.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.d4b7dbdb.chunk.js"
+    "static/js/main.de133a34.chunk.js"
   ]
 }
