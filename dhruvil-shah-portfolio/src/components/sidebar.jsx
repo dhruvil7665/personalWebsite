@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/Dns.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Dhruvil Shah</a></h1>
-              <p style={{paddingLeft:"10px"}}>Full Stack Developer | Cloud Development | MERN Stack | AWS | Masters in Information Systems from Northeastern University</p>
+              <p style={{paddingLeft:"10px"}}>Full Stack Developer | Software and Web Development | React JS | Node JS | AWS  Masters in Information Systems from Northeastern University</p>
             </div>
             <br></br>
             

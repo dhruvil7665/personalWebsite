@@ -80,7 +80,8 @@ multiple exchanges via an order routing system and generates a detailed and prec
                       </div>
                       <div className="timeline-label">
                         <h2>Android Developer Intern at Purple Squirrel Eduventures <span>2015-2016</span></h2>
-                        <p><ul><li>Developed an Android application using Android studio that synced data with a centrally located server and published information regarding upcoming events, workshops and industrial visits organized by the company.</li></ul></p>
+                        <p><ul><li>Developed an Android application using Android studio that synced data with a centrally located server and published information regarding upcoming events, workshops and industrial visits organized by the company.</li>
+                        <li>Implemented using Java for adding event listners to the application and MySQL to store and retrieve the data</li></ul></p>
                       </div>
                     </div>
                   </article>

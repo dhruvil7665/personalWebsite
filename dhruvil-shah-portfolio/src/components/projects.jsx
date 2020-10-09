@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(../images/event.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/event.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Eve Tracker</h3>
