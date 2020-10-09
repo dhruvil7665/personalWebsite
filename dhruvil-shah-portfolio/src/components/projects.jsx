@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import event from "../images/event.jpg"
 export default class Projects extends Component {
   render() {
     return (
@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/event.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(../images/event.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Eve Tracker</h3>
@@ -35,7 +35,7 @@ export default class Projects extends Component {
 											<h3>Holiday Maker</h3>
 											<span>Travel Website built using Spring MVC and Hibernate</span>
 											<p className="icon">
-											
+												
 												<span><a href="https://github.com/dhruvil7665/HolidayMaker"><i className="icon-eye" /></a></span>
 												
 											</p>
