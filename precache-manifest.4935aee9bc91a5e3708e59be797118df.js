@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b913d5eef3f7b7edc81f5a69b8eb1b4a",
+    "revision": "a4a2878f6c0025e0c4187fae3b57a32e",
     "url": "/portfolio_Dhruvil/index.html"
   },
   {
-    "revision": "991338835cb9ea5ec969",
+    "revision": "747ed483b01a235f4e6c",
     "url": "/portfolio_Dhruvil/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio_Dhruvil/static/js/2.e5206b20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "991338835cb9ea5ec969",
-    "url": "/portfolio_Dhruvil/static/js/main.de133a34.chunk.js"
+    "revision": "747ed483b01a235f4e6c",
+    "url": "/portfolio_Dhruvil/static/js/main.3bf58c1f.chunk.js"
   },
   {
     "revision": "98a5e59842947f42cd97",
